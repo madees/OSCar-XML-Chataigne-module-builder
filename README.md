@@ -21,4 +21,4 @@ Next, you can create a single object values, or several at the same time:
 
 - If you want to create several objects, set the first/last index parameters, and click on the second button to add objects values to the module. 
 
-## You'll find an example XML file and documentation about OSCar in the repo.
+## You'll find also an example XML file for testing, and documentation about OSCar in the repo.
