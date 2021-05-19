@@ -9,7 +9,7 @@ To learn more about Chataigne, please visit : http://benjamin.kuperberg.fr/chata
 
 For global support on how to use Chataigne and its modules, please visit the forum : http://benjamin.kuperberg.fr/chataigne/forum or join us on Discord : https://discord.com/invite/ngnJ5z my contact there is also "madees".
 
-#How to use it
+# How to use it
 First, download the .js script and add it to a OSC Chataigne module.
 
 You'll see some parameters in the script container :
@@ -17,6 +17,6 @@ You'll see some parameters in the script container :
 It will uses the object structure defined into it to build values afterwhile.
 
 Next, you can create a single object values, or several at the same time.
-If you want to create only one object, set the index parameter, and click on the first button to add its values to the module.
+- If you want to create only one object, set the index parameter, and click on the first button to add its values to the module.
 
-If you want to create several objects, set the first/last parameters, and click on the second button to add objects values to the module. 
+- If you want to create several objects, set the first/last parameters, and click on the second button to add objects values to the module. 
