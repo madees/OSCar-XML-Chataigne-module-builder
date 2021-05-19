@@ -1,4 +1,6 @@
 # OSCar-XML-Chataigne-module-builder
+# Work In Progress
+
 Script to build OSC module values automatically from OSCar XML configuration file.
 
 OSCar is a free VST plugin developped by IRCAM https://forum.ircam.fr/projects/detail/oscar/
