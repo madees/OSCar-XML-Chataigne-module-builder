@@ -1,0 +1,8 @@
+<?xml version=”1.0″ encoding=”UTF-8″ standalone=”yes”?>
+<oscar version=”1.0″>
+<parameter index=”1″ name=”x” pattern=”/adm/obj/$1/x” min=”-1″ max=”1″ default=”0″/>
+<parameter index=”2″ name=”y” pattern=”/adm/obj/$1/y” min=”-1″ max=”1″ default=”0″/>
+<parameter index=”3″ name=”z” pattern=”/adm/obj/$1/z” min=”-1″ max=”1″ default=”0″/>
+<parameter index=”4″ name=”w” pattern=”/adm/obj/$1/w” min=”0″ max=”180″ default=”0″/>
+<parameter index=”5″ name=”moov” pattern=”/adm/obj/$1/moov” min=”0″ max=”1″ default=”0″/>
+</oscar>
