@@ -1,5 +1,5 @@
 # OSCar-XML-Chataigne-module-builder
-# Work In Progress
+# !!! Work In Progress !!! not finished !!!
 
 Script to build OSC module values automatically from OSCar XML configuration file.
 
